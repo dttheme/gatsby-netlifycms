@@ -1,3 +1,6 @@
+NetlifyCMS: http://localhost:8000/admin
+Static site: https://boring-morse-83f947.netlify.com/
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
