@@ -28,6 +28,9 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <nav style={{ float: `right` }}>
+      <Link to="/blog">Blog</Link>
+    </nav>
   </header>
 )
 
